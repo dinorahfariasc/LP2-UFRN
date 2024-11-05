@@ -59,7 +59,7 @@ class CorrentistaUtils {
 }
 
 
-public class exc4 {
+public class exc5 {
     public static void main(String[] args) {
         DespesasIndividuo despesa1 = new DespesasIndividuo(1500);
         DespesasIndividuo despesa2 = new DespesasIndividuo(500);
